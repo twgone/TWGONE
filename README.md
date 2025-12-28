@@ -1,4 +1,3 @@
-
 <h3 align="center">Olá! sou TWGONE, sou estudante de programação e tecnologia, com interesse em desenvolvimento de software e aprendizado contínuo.</h3>
 
 ###
@@ -29,10 +28,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twgone/twgone/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twgone/twgone/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/twgone/twgone/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/twgone/twgone/output/snake.svg" alt="Snake animation" />
 
 ###
